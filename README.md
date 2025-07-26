@@ -4,7 +4,7 @@
 The **STM32-F103RB Music Genre Analyzer** is a real-time audio processing project built on the STM32F103RB microcontroller. It captures audio input through a 3.5mm TRS audio jack, processes the signal using ADC and DMA, and analyzes audio features to classify music into genres such as Classic, Pop, Hip-Hop, Metal, or Unknown. The analysis results are displayed on a SH1106 OLED display and printed to a serial terminal via USART2 (e.g., using PuTTY). This project showcases embedded systems programming, signal processing, and real-time audio analysis, leveraging the STM32 HAL library for hardware abstraction.
 
 ## Demo Video
-![Short Demo]([assets/demo-Die_With_A_Smile.gif](https://github.com/DarrenChung63/STM32-F103RB-Music-Genre-Analyzer/blob/main/assets/demo-Die_With_A%20_Smile.gif)  
+![image](https://github.com/DarrenChung63/STM32-F103RB-Music-Genre-Analyzer/blob/main/assets/demo-Die_With_A%20_Smile.gif)  
 Test music: [Lady Gaga, Bruno Mars - Die With a Smile](https://youtu.be/kPa7bsKwL-c?si=mSoSqakVT_kw9lkq) (0:44 to 1:19)
 
 ## Features
