@@ -5,7 +5,7 @@ The **STM32-F103RB Music Genre Analyzer** is a real-time audio processing projec
 
 ## Demo Video
 ![image](https://github.com/DarrenChung63/STM32-F103RB-Music-Genre-Analyzer/blob/main/assets/demo-Die_With_A%20_Smile.gif)  
-Test music: [Lady Gaga, Bruno Mars - Die With a Smile](https://youtu.be/kPa7bsKwL-c?si=mSoSqakVT_kw9lkq) (0:44 to 1:19)
+Test music: [Lady Gaga, Bruno Mars - Die With a Smile](https://youtu.be/kPa7bsKwL-c?si=mSoSqakVT_kw9lkq) (0:44 to 0.54)
 
 ## Features
 - **Audio Input**: Captures audio via a 3.5mm TRS jack connected to ADC1 (PA0).
